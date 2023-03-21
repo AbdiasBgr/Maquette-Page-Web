@@ -1,0 +1,199 @@
+ /*All general  */
+*{
+  margin:0;
+  padding:0;
+}
+Body{
+  font-family : arial, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  font-family: 'crete round';
+}
+.wrapper {
+  width: 940px;
+  margin:0 auto;
+  padding:0 10px ;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color:#444;
+}
+
+
+ /* Header */ 
+header {
+  height: 120px;
+}
+header h3{
+  float: left;
+}
+.nicepage{
+  margin-top: 50px;
+}
+
+ /* Body */
+ /* Section à propos */
+#apropos{
+  background-color: rgb(216, 213, 213);
+}
+#apropos h1{
+  color: white;
+  font-size: 150px;
+}
+#apropos h2{
+  color: blue;
+  font-size: 30px;
+}
+#apropos div p {
+  text-align: justify;
+  display: inline-block;
+  width: 500px ;
+
+}
+
+/* Secion Mission et Buts */
+#missionbut h2{
+  color: blue;
+  font-family:'crete round' serif;
+  font-size: 40px;
+  font-weight:bold ;
+  margin-top: 40px;
+}
+.mission p{
+  display: inline-block;
+  width: 400px;
+  margin-left: 100px;
+}
+.mission h2{
+  margin-left: 100px;
+}
+.but P {
+  text-align: justify;
+  display: inline-block;
+  width: 300px;
+  position: relative;
+  left: 250px;
+}
+.but h2{
+  position: relative;
+  left: 250px;
+}
+
+/* Section Gratte-Ciel */
+.ciel{
+  background-color:rgb(216, 213, 213);
+  margin-top: 100px;
+  width: 600px;
+  height: 500px;
+  padding: 20px 20px 30px 50px;
+  position: relative;
+
+ 
+}
+.ciel img{
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+.ciel p{
+  margin-top: 50px;
+  width: 400px;
+}
+.casebleu{
+  background-color: blue;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  right: 274px;
+}  
+.pciel{
+  font-weight: bold;
+  font-family: 'crete round' serif;
+  font-size: 39px;
+  text-align: right;
+  position: absolute;
+  left: 550px;
+}
+
+/* Section Mission et Objectifs */
+#missionobjectif h2{
+  color: blue;
+font-family:'crete round' serif;
+font-size: 50px;
+font-weight:bold ;
+margin-left: 150px;
+margin-top: 40px;
+}
+.button1{
+  display: inline-block;
+  width: 300px;
+  height: 80px;
+  background-color: blue;
+  color: #fff ;
+  font-size: 20px;
+  margin:0px 0px 0px 40px;
+  line-height: 80px;
+  text-align: center;
+  border-radius: 4px;
+}
+#missionobjectif p {
+  text-align: justify;
+  display: inline-block;
+  width: 400px;
+  position: absolute;
+  right: 150px;
+}
+.p2
+{
+  text-align: justify;
+  display: inline-block;
+  width: 400px;
+  margin-top: 50px;
+  position: absolute;
+  left: 360px;
+}
+#missionobjectif img {
+  margin-top: 20px;
+  position: relative;
+  left: 90px;
+}
+
+/* Section James  */
+#james {
+  background: rgb(216, 213, 213);
+  margin-top: 350px;
+  padding-top: 80px;
+}
+.j1 {
+  font-weight: bold;
+  color: blue;
+  font-size: 50px;
+}
+.j2{
+  font-weight: bold;
+  color:black;
+  font-size: 25px;
+  margin-top: 90px;
+  text-align: center;
+}
+
+/* Section Rencontrez notre équipe */
+#dirigeant h2{
+  font-weight: bold;
+  color: blue;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 40px;
+}
+#dirigeant{
+  
+}
+
+
+ /* Footer */
+ 
+
